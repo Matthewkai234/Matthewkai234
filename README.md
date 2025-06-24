@@ -2,7 +2,8 @@
 
 * Frontend Developer.
 * UI/UX Designer.
-* Senior student at An-Najah University - Software Engineering
+* Content Writer.
+* Senior student at An-Najah University - Software Engineering.
 
 ## Projects
 
@@ -15,5 +16,6 @@ Gaia is an immersive scientific software album exploring Geology, Space, and Bio
 ### [Nocturne](https://github.com/Matthewkai234/nocturne)
 Nocturne is a basic sleek e-commerce layout design offering intuitive navigation and a fully responsive user interface for a smooth shopping experience on any device.
 
+###[Tradio]
 
 
