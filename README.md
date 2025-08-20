@@ -16,6 +16,7 @@ Gaia is an immersive scientific software album exploring Geology, Space, and Bio
 ### [Nocturne](https://github.com/Matthewkai234/nocturne)
 Nocturne is a basic sleek e-commerce layout design offering intuitive navigation and a fully responsive user interface for a smooth shopping experience on any device.
 
-###[Tradio]
+### [Tradio](https://github.com/Matthewkai234/tradio)
+Tradio is a mobile application developed to help users trade an item by item without any connection between the users.
 
 
